@@ -1,4 +1,3 @@
-# JavaScript.js
 
 function validaFormulario(){
 
